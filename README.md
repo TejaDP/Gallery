@@ -94,9 +94,8 @@ function closeModal() {
 
 ```
 # OUTPUT:
-![alt text](<../Screenshot (67).png>)
-![alt text](<../Screenshot (68).png>)
-![alt text](<../Screenshot (69).png>)
-
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/4ca6b3c9-bc35-43be-b825-65a50ca937a5" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/ef8a7036-3a5c-420f-8b05-b1a830fef535" />
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/f9eda376-d92e-4ddc-9abf-2cde3bd91970" />
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
